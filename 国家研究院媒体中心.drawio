@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2020-08-27T06:05:24.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="7BPBX2z_zt6e1nmDS87a" version="13.6.5" type="github">
+  <diagram id="psMlC1tz7BFPvz4QMGny" name="第 1 页">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-1" value="国家研究院媒体中心" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="540" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-2" value="需求" style="swimlane;html=1;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="5Ubn6nQorzdvGXlEVn9k-1" vertex="1">
+          <mxGeometry y="20" width="180" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-10" value="微信公众号" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="5Ubn6nQorzdvGXlEVn9k-2" vertex="1">
+          <mxGeometry x="20" y="100" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-11" value="张健" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Ubn6nQorzdvGXlEVn9k-10" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-12" value="B站" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="5Ubn6nQorzdvGXlEVn9k-2" vertex="1">
+          <mxGeometry x="20" y="160" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-13" value="张健" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Ubn6nQorzdvGXlEVn9k-12" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-14" value="大屏展示" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="5Ubn6nQorzdvGXlEVn9k-2" vertex="1">
+          <mxGeometry x="20" y="220" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-15" value="王永超" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Ubn6nQorzdvGXlEVn9k-14" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-16" value="宣传材料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="5Ubn6nQorzdvGXlEVn9k-2" vertex="1">
+          <mxGeometry x="20" y="280" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-17" value="张健" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Ubn6nQorzdvGXlEVn9k-16" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-3" value="设计" style="swimlane;html=1;startSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="5Ubn6nQorzdvGXlEVn9k-1" vertex="1">
+          <mxGeometry x="180" y="20" width="180" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-6" value="文字编辑" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="5Ubn6nQorzdvGXlEVn9k-3" vertex="1">
+          <mxGeometry x="20" y="40" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-7" value="刘欣怡" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Ubn6nQorzdvGXlEVn9k-6" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-20" value="美术设计" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="5Ubn6nQorzdvGXlEVn9k-3" vertex="1">
+          <mxGeometry x="20" y="100" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-21" value="孟萌" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Ubn6nQorzdvGXlEVn9k-20" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-4" value="实施" style="swimlane;html=1;startSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="5Ubn6nQorzdvGXlEVn9k-1" vertex="1">
+          <mxGeometry x="360" y="20" width="180" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-22" value="网页制作" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="5Ubn6nQorzdvGXlEVn9k-4" vertex="1">
+          <mxGeometry x="20" y="40" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-23" value="史妍" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Ubn6nQorzdvGXlEVn9k-22" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-24" value="内容发布" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="5Ubn6nQorzdvGXlEVn9k-4" vertex="1">
+          <mxGeometry x="20" y="100" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-25" value="刘欣怡" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Ubn6nQorzdvGXlEVn9k-24" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-18" value="网站" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="100" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ubn6nQorzdvGXlEVn9k-19" value="韩咏霖" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Ubn6nQorzdvGXlEVn9k-18" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
